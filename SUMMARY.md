@@ -5,6 +5,7 @@
     * [Mission](#)
     * [Philosophy](#)
     * [How it's made?](#)
+    * [Learning project - How To Sane](#)
 * [Part II - Basic Usage](#)
     * [Installation](#)
     * [Running](#)
