@@ -28,6 +28,7 @@
     * [Testing](#)
     * [Continuous Integration](#)
     * [Advanced Blueprint settings](#)
+    * [User roles and Authorization](#)
     * [Real Time Web With Sockets](#)
     * [Using Geo Data](#)
 * [Part IV - What The Future Looks Like](#)
