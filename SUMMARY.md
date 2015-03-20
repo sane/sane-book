@@ -38,6 +38,8 @@
     * [Sane Start Up Software Development Platform](#)
     * [Visual Tools for Sane Stack Development](#)
 * [Part V - How To Get Involved](#)
+    * [Chat And Forum](#)
+    * [Issues on Github](#)
     * [Addons And The Ecosystem](#)
     * [Writing Documentation](#)
     * [Core Code Pull Requests](#)
