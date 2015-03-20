@@ -28,6 +28,7 @@
     * [Testing](#)
     * [Continuous Integration](#)
     * [Advanced Blueprint settings](#)
+    * [Hybrid Apps with Cordova](#)
     * [User roles and Authorization](#)
     * [Real Time Web With Sockets](#)
     * [Using Geo Data](#)
