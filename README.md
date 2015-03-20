@@ -1,2 +1,3 @@
-# sane-book
-Sane Full Stack Javascript Development book copy
+# SANE - Matering Fullstack JS
+
+The OFFICIAL Sane Stack Book
