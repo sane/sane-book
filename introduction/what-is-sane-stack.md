@@ -1,1 +1,1 @@
-# What is SANE Stack?
+# What is the Sane Stack?
