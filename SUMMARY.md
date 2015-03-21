@@ -1,6 +1,5 @@
 # Summary
 
-<<<<<<< HEAD
 * [Part I - Introduction ](#)
     * [What is the Sane Stack?](#)
     * [Mission](#)
@@ -29,6 +28,8 @@
     * [Testing](#)
     * [Continuous Integration](#)
     * [Advanced Blueprint settings](#)
+    * [Hybrid Apps with Cordova](#)
+    * [User roles and Authorization](#)
     * [Real Time Web With Sockets](#)
     * [Using Geo Data](#)
 * [Part IV - What The Future Looks Like](#)
@@ -38,6 +39,8 @@
     * [Sane Start Up Software Development Platform](#)
     * [Visual Tools for Sane Stack Development](#)
 * [Part V - How To Get Involved](#)
+    * [Chat And Forum](#)
+    * [Issues on Github](#)
     * [Addons And The Ecosystem](#)
     * [Writing Documentation](#)
     * [Core Code Pull Requests](#)
@@ -48,6 +51,3 @@
     * [Teaching](#)
     * [Meetups](#)
     * [Donations](#)
-=======
-* [First Chapter](chapter1.md)
->>>>>>> e5ffe94f00175a9e81cc71f5c6dd39efad23dcf3
