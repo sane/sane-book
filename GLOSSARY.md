@@ -11,7 +11,10 @@ Sails makes it easy to build custom, enterprise-grade Node.js apps. It is design
 
 # SANE
 
-A Javascript Fullstack and CLI that lets you rapidly create production-ready web apps using Sails and Ember. Baked-in Docker support, generators and more.
+SANE is a Full-Stack JavaScript and CLI that lets you rapidly create production-ready web apps using Sails and Ember. Comes with baked-in Docker support, generators and more.
 
 [Website](http://sanestack.com/)
 
+# Docker
+
+Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments.
