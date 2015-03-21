@@ -2,8 +2,8 @@
 
 * [Part I - Introduction ](chapter1.md)
     * [What is the Sane Stack?](introduction/what-is-sane-stack.md)
-    * [Mission](#)
-    * [Philosophy](#)
+    * [Mission](introduction/mission.md)
+    * [Philosophy](introduction/philosophy.md)
     * [How it's made?](#)
     * [Learning project - How To Sane](#)
 * [Part II - Basic Usage](#)
