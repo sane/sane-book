@@ -1,7 +1,7 @@
 # Summary
 
 * [Part I - Introduction ](chapter1.md)
-    * [What is the Sane Stack?](#)
+    * [What is the Sane Stack?](introduction/what-is-sane-stack.md)
     * [Mission](#)
     * [Philosophy](#)
     * [How it's made?](#)
