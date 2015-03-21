@@ -1,6 +1,6 @@
 # Summary
 
-* [Part I - Introduction ](#)
+* [Part I - Introduction ](chapter1.md)
     * [What is the Sane Stack?](#)
     * [Mission](#)
     * [Philosophy](#)
