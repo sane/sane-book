@@ -5,7 +5,7 @@
     * [Mission](introduction/mission.md)
     * [Philosophy](introduction/philosophy.md)
     * [How it's made?](#)
-    * [Learning project - How To Sane](#)
+    * [Learning project - How To Sane](introduction/how-to-sane.md)
 * [Part II - Basic Usage](#)
     * [Installation](#)
     * [Running](#)
