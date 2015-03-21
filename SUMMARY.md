@@ -4,7 +4,7 @@
     * [What is the Sane Stack?](introduction/what-is-sane-stack.md)
     * [Mission](introduction/mission.md)
     * [Philosophy](introduction/philosophy.md)
-    * [How it's made?](#)
+    * [How it's made?](introduction/how-its-made.md)
     * [Learning project - How To Sane](introduction/how-to-sane.md)
 * [Part II - Basic Usage](#)
     * [Installation](#)
