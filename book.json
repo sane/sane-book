@@ -4,6 +4,9 @@
     "styles": {
       "website": "styles/website.css"
     },
+    "scripts": {
+      "website": "js/website.js"
+    },
     "variables": {
         "saneHomePageUrl": "http://sanestack.com",
         "saneRepoUrl": "https://github.com/artificialio/sane",
@@ -13,5 +16,9 @@
             { "name": "John-Henry Liberty", "githubUserName": "jhliberty" },
             { "name": "Martin Genev", "githubUserName": "mgenev"}
         ]
-    }
+    },
+    "plugins": [
+        "google_code_prettify",
+        "codeblock-disable-glossary"
+    ]
 }

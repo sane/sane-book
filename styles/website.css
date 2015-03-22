@@ -10,3 +10,7 @@
 .book .body-inner .book-header a {
   color: white;
 }
+
+.book .body-inner pre.prettyprint {
+  background-color: #001c20 !important;
+}
