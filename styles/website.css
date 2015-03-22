@@ -1,0 +1,12 @@
+.body-inner {
+  background-color: #e3f0f1;
+}
+
+.body-inner .book-header {
+  background-color: #0c8da0;
+  color: white;
+}
+
+.book .body-inner .book-header a {
+  color: white;
+}

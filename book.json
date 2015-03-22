@@ -1,0 +1,17 @@
+{
+    "gitbook": "2.0.0-beta.5",
+    "title": "SANE - Mastering Full Stack JavaScript",
+    "styles": {
+      "website": "styles/website.css"
+    },
+    "variables": {
+        "saneHomePageUrl": "http://sanestack.com",
+        "saneRepoUrl": "https://github.com/artificialio/sane",
+        "currentSaneVersion": "0.0.24",
+        "authors": [
+            { "name": "Markus Padourek", "githubUserName": "globegitter" },
+            { "name": "John-Henry Liberty", "githubUserName": "jhliberty" },
+            { "name": "Martin Genev", "githubUserName": "mgenev"}
+        ]
+    }
+}
