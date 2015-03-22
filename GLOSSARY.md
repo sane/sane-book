@@ -32,3 +32,9 @@ SPA stands for Single Page Application - a modern approach to web development fo
 CLI is short for Command Line Interface - the traditional way for interacting with a computer program in a terminal.
 
 [Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
+
+# REST
+
+REST is short for representational state transfer. It has become the dominant architecture style for client to server communication on the web and is used by the SANE stack's client and server. It is very important to understand REST well.
+
+[Wikipedia](http://en.wikipedia.org/wiki/Representational_state_transfer)
