@@ -20,3 +20,15 @@ Sails makes it easy to build custom, enterprise-grade Node.js apps. It is design
 Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications. Consisting of Docker Engine, a portable, lightweight runtime and packaging tool, and Docker Hub, a cloud service for sharing applications and automating workflows, Docker enables apps to be quickly assembled from components and eliminates the friction between development, QA, and production environments.
 
 [Website](http://docker.com/)
+
+# SPA
+
+SPA stands for Single Page Application - a modern approach to web development for creating rich experiences in the browser alike those of native apps on desktop or mobile.
+
+[Wikipedia](http://en.wikipedia.org/wiki/Single-page_application)
+
+# CLI
+
+CLI is short for Command Line Interface - the traditional way for interacting with a computer program in a terminal.
+
+[Wikipedia](http://en.wikipedia.org/wiki/Command-line_interface)
