@@ -35,4 +35,8 @@ To setup an existing app to use docker you will need to change the setting in yo
 "docker": false,
 ```
 
-**Note:** If you use docker, make sure you have compose installed. On OSX or Windows you will also need `boot2docker`. For Linux see: https://docs.docker.com/installation/ubuntulinux/
+**Note:** If you use docker, make sure you have compose installed. 
+
+On OSX or Windows you will also need `boot2docker`. 
+
+Linux users see: https://docs.docker.com/installation/ubuntulinux/
