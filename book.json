@@ -4,9 +4,6 @@
     "styles": {
       "website": "styles/website.css"
     },
-    "scripts": {
-      "website": "js/website.js"
-    },
     "variables": {
         "saneHomePageUrl": "http://sanestack.com",
         "saneRepoUrl": "https://github.com/artificialio/sane",
@@ -19,6 +16,12 @@
     },
     "plugins": [
         "google_code_prettify",
-        "codeblock-disable-glossary"
-    ]
+        "codeblock-disable-glossary",
+        "mixpanel"
+    ],
+    "pluginsConfig": {
+        "mixpanel": {
+            "token": "38be42d88f9d368ec3ebd7b93b10763b"
+        }
+    }
 }
