@@ -18,7 +18,8 @@
         "google_code_prettify",
         "codeblock-disable-glossary",
         "mixpanel",
-        "ga"
+        "ga",
+        "codeblock-filename"
     ],
     "pluginsConfig": {
         "mixpanel": {

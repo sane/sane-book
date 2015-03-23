@@ -14,3 +14,8 @@
 .book .body-inner pre.prettyprint {
   background-color: #001c20 !important;
 }
+
+.book .book-body .page-wrapper .page-inner section.normal p.code-filename {
+  border: 1px solid rgba(0,0,0,0.1) !important;
+  margin-bottom: 0;
+}

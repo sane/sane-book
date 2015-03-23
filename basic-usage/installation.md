@@ -31,7 +31,8 @@ $ sane new project --docker
 
 To setup an existing app to use docker you will need to change the setting in your `.sane-cli` file.
 
-```json
+!FILENAME .sane-cli
+```json:
 "docker": false,
 ```
 
