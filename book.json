@@ -17,11 +17,15 @@
     "plugins": [
         "google_code_prettify",
         "codeblock-disable-glossary",
-        "mixpanel"
+        "mixpanel",
+        "ga"
     ],
     "pluginsConfig": {
         "mixpanel": {
             "token": "38be42d88f9d368ec3ebd7b93b10763b"
+        },
+        "ga": {
+            "token": "UA-61106908-2"
         }
     }
 }
