@@ -38,7 +38,7 @@
     * [How to Sane Learning Platform](looking-forward/how-to-sane-learning-platform.md)
     * [Sane Start Up Software Development Platform](looking-forward/start-up-platform.md)
     * [Visual Tools for Sane Stack Development](looking-forward/visual-tools.md)
-* [Part V - How To Get Involved](get-involed.md)
+* [Part V - How To Get Involved](get-involved.md)
     * [Chat And Forum](get-involved/chat-and-forum.md)
     * [Issues on Github](get-involved/issues-on-github.md)
     * [Addons And The Ecosystem](get-involved/addons-and-the-ecosystem.md)
