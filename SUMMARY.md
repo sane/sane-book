@@ -11,6 +11,7 @@
     * [Running](basic-usage/running.md)
     * [Generators](basic-usage/generators.md)
     * [File structure and conventions](basic-usage/file-structure-and-conventions.md)
+    * [Routing](basic-usage/routing.md)
     * [Blueprints](basic-usage/blueprints.md)
     * [CRUD](basic-usage/crud.md)
     * [Querying](basic-usage/querying.md)
