@@ -25,7 +25,7 @@ To achieve this, the following conditions are necessary:
 6. High perceived skills
 7. Freedom from distractions
 
-Our software stack and cli are designed to meet these conditions during development experience and achieve  flow. We do this mainly by using the latest and greatest within the Javascript language and embracing the paradigm of ‘convention over configuration’ all the way through the software stack. This gives the developer
+Our software stack, cli and learning materials are designed to meet these conditions during development experience and achieve  flow. We do this mainly by using the latest and greatest within the Javascript language and embracing the paradigm of ‘convention over configuration’ all the way through the software stack. This gives the developer
 
 - A clear set of tasks (1) and guidelines (2).
 - Live reload (sockets to the browser) we are able to automatically immediately restart the software and reload the browser thus gaining instant feedback for your latest changes (3).
