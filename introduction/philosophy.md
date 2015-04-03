@@ -13,7 +13,7 @@ Csíkszentmihályi identifies  the following six factors as encompassing an expe
 5. a distortion of temporal experience, one's subjective experience of time is altered
 6. experience of the activity as intrinsically rewarding, also referred to as autotelic experience
 
-Those aspects can appear independently of each other, but only in combination do they constitute a so-called flow experience.
+Those aspects can appear independently of each other, but only in combination do they constitute a so-called flow experience. It allows the developer to not only be optimally productive, but also creative and fulfilled. 
 
 To achieve this, the following conditions are necessary:
 
@@ -32,8 +32,6 @@ Our software stack, cli and learning materials are designed to meet these condit
 - Abundant learning resources - How-to-Sane, this book and our resource library give the developer a place to go for further steps  (4)
 - With the mission of being ever modern and powerful, the Sane stack’s way of software development is highly sophisticated and at the crest of web development technology (5), using it requires a high degree of skill (6) by nature.
 - A high level of automation of the repetitive mechanical tasks and make the developer free for the creative ones. (7)
-
-All this allows the developer to not only be optimally productive, but also creative and fulfilled. 
 
 This is all a lot harder than it may sound and to actually achieve it, the creators of Sane have learned the valuable lessons from the paradigms of Agile and Lean and embrace continuous integration and rapid delivery which is allowed primarily by 2 factors - using highly testable frameworks, Ember for client and Sails for server,  and using Docker for automatically managing software environments and deployments. 
 
